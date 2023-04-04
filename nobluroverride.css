@@ -1,2 +1,4 @@
 .room__image, .room__video {
   filter: none; }
+.room__container::before {
+  filter: none; }
